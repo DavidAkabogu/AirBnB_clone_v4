@@ -159,6 +159,10 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
+Famous Bernard Adama - [Github] (https://github.com/Famous3262)
+Akabogu Chibuikem David - [Github] (https://github.com/DavidAkabogu)
+
+
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
